@@ -22,20 +22,16 @@
 
 **Conclusion**  
 Place a few main graphs and highlight main ideas presented.   
-
-**Part 9, may or may not be fitted in after walters bit**  
+ 
 
 <img src="task_list.PNG" alt="drawing" width="1200"/>
 
 
 Mariam 1 & 2  
-Daniel 4  
+Daniel 4  & 7
 Jake 3 & 5  
-Walter 6 & 8
+Walter 6 & 8 & 9
 
-Task 7 looks quite big and we don't understand it so we will work how to do it later. 
-Task 8 looks okay, we can assign it later.
-Task 9 optional but looks okay. 
 
 In each of the branches of this repo you find all the necessary to complete your final project.
 In particular the file Project.ipynb describes the projects and provides guidance to its development.
