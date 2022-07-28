@@ -31,7 +31,7 @@ Place a few main graphs and highlight main ideas presented.
 Mariam 1 & 2  
 Daniel 4  
 Jake 3 & 5  
-Walter 6
+Walter 6 & 8
 
 Task 7 looks quite big and we don't understand it so we will work how to do it later. 
 Task 8 looks okay, we can assign it later.
